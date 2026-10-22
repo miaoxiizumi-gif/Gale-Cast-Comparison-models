@@ -1,0 +1,20 @@
+item,value,warning
+accuracy,99.62,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+precision,72.73,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+recall,85.71,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+f1,78.69,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+pr_auc,0.8302,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+threshold,0.601,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+tp,24,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+fp,9,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+fn,4,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+tn,3386,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+val_date_range,2021-10-15 to 2024-12-31,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+wind_speed_mae_m/s,0.5365,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+humidity_mae_%,4.9453,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+wind_dir_all_days_mae_°,50.5217,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+wind_dir_mae_°,43.4016,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+rainfall_mae_mm,0.9191,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+pressure_mae_hPa,1.2452,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+u_mae_m/s,1.2385,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable
+v_mae_m/s,1.0353,LEGACY: evaluation period also used for early stopping and post-processing (AUDIT F-06/F-07/F-08); not comparable

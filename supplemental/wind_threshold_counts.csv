@@ -1,0 +1,13 @@
+lead,scope,threshold_ms,threshold_kmh_x3_6,cases,observed_events,max_observed_ms,forecasts_ge_persistence,forecasts_ge_climatology,forecasts_ge_damped_persistence,forecasts_ge_ridge_wind,forecasts_ge_ridge_wind_met,forecasts_ge_nn_residual,forecasts_ge_nn_station,forecasts_ge_c1_v2,forecasts_ge_c1_v1,max_forecast_any_product_ms
+1,primary,10.8,38.9,2193,0,8.0,0,0,0,0,0,0,0,0,0,8.0
+1,primary,17.2,61.9,2193,0,8.0,0,0,0,0,0,0,0,0,0,8.0
+1,Port Area,10.8,38.9,304,0,7.0,0,0,0,0,0,0,0,0,0,7.0
+1,Port Area,17.2,61.9,304,0,7.0,0,0,0,0,0,0,0,0,0,7.0
+2,primary,10.8,38.9,2193,0,8.0,0,0,0,0,0,0,0,0,0,8.0
+2,primary,17.2,61.9,2193,0,8.0,0,0,0,0,0,0,0,0,0,8.0
+2,Port Area,10.8,38.9,304,0,7.0,0,0,0,0,0,0,0,0,0,7.0
+2,Port Area,17.2,61.9,304,0,7.0,0,0,0,0,0,0,0,0,0,7.0
+3,primary,10.8,38.9,2193,0,8.0,0,0,0,0,0,0,0,0,0,8.0
+3,primary,17.2,61.9,2193,0,8.0,0,0,0,0,0,0,0,0,0,8.0
+3,Port Area,10.8,38.9,304,0,7.0,0,0,0,0,0,0,0,0,0,7.0
+3,Port Area,17.2,61.9,304,0,7.0,0,0,0,0,0,0,0,0,0,7.0

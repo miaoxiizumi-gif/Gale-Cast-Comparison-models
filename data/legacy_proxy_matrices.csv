@@ -1,0 +1,19 @@
+lead,product,n,observed_events,observed_episodes,observed_by_component,forecast_events,hits,misses,false_alarms,correct_negatives,recall,precision,false_alarm_ratio,csi,episodes_detected,forecast_episodes,false_alarm_episodes
+1,c1-v2,2193,20,5,"{""pressure_fall_only"": 20}",116,0,20,116,2057,0.0,0.0,1.0,0.0,0,13,13
+1,c1-v1,2193,20,5,"{""pressure_fall_only"": 20}",338,0,20,338,1835,0.0,0.0,1.0,0.0,0,16,16
+1,persistence,2193,20,5,"{""pressure_fall_only"": 20}",20,5,15,15,2158,0.25,0.25,0.75,0.14285714285714285,3,5,2
+1,climatology,2193,20,5,"{""pressure_fall_only"": 20}",0,0,20,0,2173,0.0,,,0.0,0,0,0
+1,c1-v2_probability,2193,20,5,"{""pressure_fall_only"": 20}",35,0,20,35,2138,0.0,0.0,1.0,0.0,0,13,13
+1,c1-v1_probability,2193,20,5,"{""pressure_fall_only"": 20}",2163,19,1,2144,29,0.95,0.00878409616273694,0.9912159038372631,0.00878003696857671,5,1,0
+2,c1-v2,2193,20,5,"{""pressure_fall_only"": 20}",0,0,20,0,2173,0.0,,,0.0,0,0,0
+2,c1-v1,2193,20,5,"{""pressure_fall_only"": 20}",0,0,20,0,2173,0.0,,,0.0,0,0,0
+2,persistence,2193,20,5,"{""pressure_fall_only"": 20}",20,0,20,20,2153,0.0,0.0,1.0,0.0,0,5,5
+2,climatology,2193,20,5,"{""pressure_fall_only"": 20}",0,0,20,0,2173,0.0,,,0.0,0,0,0
+2,c1-v2_probability,2193,20,5,"{""pressure_fall_only"": 20}",47,0,20,47,2126,0.0,0.0,1.0,0.0,0,9,9
+2,c1-v1_probability,2193,20,5,"{""pressure_fall_only"": 20}",368,9,11,359,1814,0.45,0.024456521739130436,0.9755434782608695,0.023746701846965697,3,44,41
+3,c1-v2,2193,20,5,"{""pressure_fall_only"": 20}",0,0,20,0,2173,0.0,,,0.0,0,0,0
+3,c1-v1,2193,20,5,"{""pressure_fall_only"": 20}",0,0,20,0,2173,0.0,,,0.0,0,0,0
+3,persistence,2193,20,5,"{""pressure_fall_only"": 20}",20,0,20,20,2153,0.0,0.0,1.0,0.0,0,5,5
+3,climatology,2193,20,5,"{""pressure_fall_only"": 20}",0,0,20,0,2173,0.0,,,0.0,0,0,0
+3,c1-v2_probability,2193,20,5,"{""pressure_fall_only"": 20}",348,0,20,348,1825,0.0,0.0,1.0,0.0,0,21,21
+3,c1-v1_probability,2193,20,5,"{""pressure_fall_only"": 20}",216,7,13,209,1964,0.35,0.032407407407407406,0.9675925925925926,0.03056768558951965,2,30,28

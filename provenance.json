@@ -1,0 +1,235 @@
+{
+  "review_id": "mr-20261022T161445Z-86f544",
+  "source_commit": "529747b62d80e5e70a127a79c4fc27387ec1c3a2",
+  "source_runs": {
+    "p4_final": "p4-final-p4-v1-20261022T135648Z-8e72c1",
+    "p4_freeze": "p4-freeze-p4-v1-20261022T135553Z-3aebbc",
+    "p4_dev": "p4-develop-p4-v1-20261022T134739Z-c5c06a",
+    "p4_inventory": "p4-inventory-p4-v1-20261022T134540Z-b7d776",
+    "p2_compare": "p2-compare-p2-v1-20261022T095800Z-56a531",
+    "p1_v1_train": "p1-train-c1-20261020T040857Z-afadc5",
+    "p1_v2_train": "p1-train-c1-v2-20261020T041838Z-2579fe",
+    "p1_v1_replay": "p1-replay-c1-v1-20261020T042617Z-0265ba",
+    "p1_v2_replay": "p1-replay-c1-v2-20261020T042835Z-77d9c6"
+  },
+  "source_export_hashes": [
+    {
+      "file": "data/decision_options.csv",
+      "sha256": "2ecad12af7ce880634b740daa5b8b2ffbb497361ad0ece048f0f33292b0ce682",
+      "match": true
+    },
+    {
+      "file": "data/legacy_proxy_matrices.csv",
+      "sha256": "db17df9a6918810875466d3dae374a7a0681d816782b0c22e9f94cc0034de4db",
+      "match": true
+    },
+    {
+      "file": "data/legacy_reference_scorecard.csv",
+      "sha256": "0aff225a1c4a0de4421d563441067409e3d27fc23e0cef91f617abe1e5ffa2a3",
+      "match": true
+    },
+    {
+      "file": "data/model_inventory.csv",
+      "sha256": "b0f0f38c950de95522a6b53361aa2f4607ddaf5c50e7351336fe84c54bccdb8f",
+      "match": true
+    },
+    {
+      "file": "data/paper_claims.csv",
+      "sha256": "33baf992f5e1a5455867b4cd7c84dbcc5ad0a94e5cb6a7b28e10423d0a4657a8",
+      "match": true
+    },
+    {
+      "file": "data/wind_scores_all_rows.csv",
+      "sha256": "33cad8e8b968338d547832a80d4b86adf191cc26a9ed7e1340839186dcc04f8d",
+      "match": true
+    },
+    {
+      "file": "data/wind_scores_by_station.csv",
+      "sha256": "1b8af8ecbb2a20aa4a087e637d36debe074cb66021fc5c1e536ed13db9ccdc75",
+      "match": true
+    },
+    {
+      "file": "data/wind_scores_primary_pooled.csv",
+      "sha256": "12c214885e9982d3e5a15310f5e75af54edfe02825b8079c0d3b79c010c5ba50",
+      "match": true
+    },
+    {
+      "file": "data/windy_day_matrices.csv",
+      "sha256": "3e790347c0463202d2c0f2b49d08c7969a79a4b8c74710cdfbaa3c06ea854129",
+      "match": true
+    },
+    {
+      "file": "figures/bands.png",
+      "sha256": "e9a4bf9f7c3d7609ed0335520435d630dcd4bab40edf12cdf689968e9891451b",
+      "match": true
+    },
+    {
+      "file": "figures/legacy_matrix.png",
+      "sha256": "5d746ce605879aa89a9611663ef1ba64d7fa20ffb74cf8d0e0d55506b566266c",
+      "match": true
+    },
+    {
+      "file": "figures/mae_by_lead.png",
+      "sha256": "34ce33cdd2f429aabf35b63714978ed81d99cdef1df0ff3eaa585c545ad224ab",
+      "match": true
+    },
+    {
+      "file": "figures/pred_vs_obs.png",
+      "sha256": "86347fad53dcea861dcd0d90a8bb8b7fc0309b0c4697c0db0b5b3e12161920a5",
+      "match": true
+    },
+    {
+      "file": "figures/probability.png",
+      "sha256": "adca6edd9fdf17c2e1dbf00a8a53b706cf0a757c7013ce0c115e0b7f5ebd532c",
+      "match": true
+    },
+    {
+      "file": "figures/proxy_matrices.png",
+      "sha256": "0f4322f8b27ee74c35f5528691d7c677f1029854647a85150a3f7ab169fb6f38",
+      "match": true
+    },
+    {
+      "file": "figures/skill.png",
+      "sha256": "21a62d3720e905b0347521e48b6b922239ad13396b5ddb47df015047b13689da",
+      "match": true
+    },
+    {
+      "file": "figures/spread.png",
+      "sha256": "724c7956e05dcfdce0118211ae8866ced633ec348d12d2e2947f471281c081d0",
+      "match": true
+    },
+    {
+      "file": "figures/stations.png",
+      "sha256": "c8f0cf2808ac698cb0d823cbb817c397169f69af2734a40e1975e9fbd54a565a",
+      "match": true
+    },
+    {
+      "file": "figures/training.png",
+      "sha256": "eb8ce67f1de9a6cb3f9c00058711ea2d7762f594e231ea3b09c3310cffe8665d",
+      "match": true
+    },
+    {
+      "file": "figures/windy_bars.png",
+      "sha256": "2215fbe997f67e45fc8be31a9004ad02fe6cb743917f6a1d166fc3e90500f09e",
+      "match": true
+    },
+    {
+      "file": "figures/windy_matrices.png",
+      "sha256": "a38878223f0c3e7ca5c04fd159bcd4f0938ae8ff87c31d6517265a91e6e94e48",
+      "match": true
+    },
+    {
+      "file": "index.html",
+      "sha256": "7346d67c4add4b4f52680e058c5eb19b122af42b11355f3cb60b3fc96ed3e5dd",
+      "match": true
+    },
+    {
+      "file": "summary.md",
+      "sha256": "aebaca61bbc5802c00a81d366f9c61b9b2a35802a3bc3923c79976adcd8a9345",
+      "match": true
+    },
+    {
+      "file": "supplemental/c1_v1_on_identical_cases.csv",
+      "sha256": "32acad31a91505fd072869c69b81e06d0d49ee7f94c40536091627d380aa70e6",
+      "match": true
+    },
+    {
+      "file": "supplemental/pr_curve_points_legacy_proxy.csv",
+      "sha256": "cedf239889729e2f652a5cff3415d193a1a6409f9f47799f6cf3c399530ebdf6",
+      "match": true
+    },
+    {
+      "file": "supplemental/README.md",
+      "sha256": "a59419e3a05b1f254b73d9ab72844dca250c9ce127cbed92d51a2e4d729d04fa",
+      "match": true
+    },
+    {
+      "file": "supplemental/wind_band_errors.csv",
+      "sha256": "1826f16a34280ca6367e38cb3be85ddb3f277c9c664db4df51f68b3176180481",
+      "match": true
+    },
+    {
+      "file": "supplemental/wind_threshold_counts.csv",
+      "sha256": "cdd9c494f47fa687e39b01322eb5f8965d5ba5a3d3cd0fa5dc9bdf2a6bec1ec6",
+      "match": true
+    }
+  ],
+  "public_downloads": [
+    {
+      "path": "data/model_inventory.csv",
+      "sha256": "5c06a84e6f4393d1ad4c1da8467bf6a10adb802a761ca78dbe3bd9dcbfdde953",
+      "rows": 10
+    },
+    {
+      "path": "data/wind_scores_primary_pooled.csv",
+      "sha256": "f0994f8966c8bfda407c4e894887dbaa8af906b36d8f540b4443d35ef230a34c",
+      "rows": 27
+    },
+    {
+      "path": "data/wind_scores_by_station.csv",
+      "sha256": "cf6c26513f7246aa899634bb3ab339c7ceb0aad06a59b786a1038771508bddf7",
+      "rows": 108
+    },
+    {
+      "path": "data/wind_scores_all_rows.csv",
+      "sha256": "2997bf2d31f216d9d5427a06b8c1a51fe43e660bbee7f1872d17113d702f7c1f",
+      "rows": 216
+    },
+    {
+      "path": "data/legacy_proxy_matrices.csv",
+      "sha256": "5f148e76be3946cc71c4e0f77ade9b0c5fa0208671256fb69eb4ec1c47ac04d9",
+      "rows": 18
+    },
+    {
+      "path": "data/windy_day_matrices.csv",
+      "sha256": "9ad1cd06da98a05eb356bf7b68998764f5570cfbdb64b5d0954b13495e66c310",
+      "rows": 135
+    },
+    {
+      "path": "data/legacy_reference_scorecard.csv",
+      "sha256": "fcc153e9534421829cb443aa5803b08700efc6b82193c7d24643cd718fede690",
+      "rows": 19
+    },
+    {
+      "path": "data/paper_claims.csv",
+      "sha256": "934b2ffd9bcbf1a499ea8302980dac3b773e6fe6503d291364fcf54daf502aa1",
+      "rows": 23
+    },
+    {
+      "path": "data/decision_options.csv",
+      "sha256": "bb25295df58b35dfbe6617d5ae028c4677783e3161dbbbb7178f2942f2256795",
+      "rows": 4
+    },
+    {
+      "path": "supplemental/wind_threshold_counts.csv",
+      "sha256": "409d09ed67f42444be4e5a0ef970f92d51083c3473b5ade4e7ed08eb8ca95af2",
+      "rows": 12
+    },
+    {
+      "path": "supplemental/wind_band_errors.csv",
+      "sha256": "7159349401064e04acd464ae2590a86516bc7bf2e1e7cd591acb0eb508b498cf",
+      "rows": 729
+    },
+    {
+      "path": "supplemental/c1_v1_on_identical_cases.csv",
+      "sha256": "fe5d8d3ae4b2ae8ec0bbd8ddc6ea35fed4670bf29b47997a176f4397e9427a86",
+      "rows": 24
+    },
+    {
+      "path": "supplemental/pr_curve_points_legacy_proxy.csv",
+      "sha256": "7f2df1c0f854324c05be3f98285108b7f22f6b5634ebade682a602c57f56d84e",
+      "rows": 360
+    }
+  ],
+  "hash_check_count": 28,
+  "hash_check_limit": "Matching hashes confirms file integrity, not scientific correctness by itself.",
+  "reporting_calculations": "Accuracy and F1 cards are derived from saved TP/FP/FN/TN counts. Other event rates are checked against saved aggregate rates. No predictions or final evaluations were rerun.",
+  "pr_auc_source": "Saved Phase 2 PR-AUC values recorded in the original review manifest; attached only to matching C1 probability products and leads.",
+  "chapter4": "Unavailable to the original review; review covers Chapters 1–3 only.",
+  "publication": "See this repository?s GitHub Pages status for current deployment availability.",
+  "hosting_configuration": {
+    "provider": "GitHub Pages",
+    "repository": "miaoxiizumi-gif/Gale-Cast-Comparison-models",
+    "source": "main branch, root directory"
+  }
+}
